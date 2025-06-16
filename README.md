@@ -15,11 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chowdhury-jifam-tahmid-27516a238/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chowdhury Jifam Tahmid" height="30" width="40" /></a>
-  
-<a href="https://fb.com/ChowdhuryJifamTahmid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chowdhury Jifam Tahmid" height="30" width="40" /></a>
-  
+<a href="https://www.facebook.com/Tahmid.88/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chowdhury Jifam Tahmid" height="30" width="40" /></a>
 <a href="https://instagram.com/tahmid_jifam_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tahmid_jifam_" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/@tahmid_jifam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Chowdhury Jifam Tahmid" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>

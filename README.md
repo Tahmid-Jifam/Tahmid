@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tahmid-Jifam" alt="Tahmid-Jifam" /></a> </p>
 
 - 🔭 I’m currently working as **Software Engineer at Momtex Expo Ltd. (Pakiza Group)**
-- 🎓 I have completed my BSC(CSE) from **North South University, Bangladesh**
+- 🎓 I have completed my BSc(CSE) from **North South University, Bangladesh**
 - 🌱 I’m currently learning & working on **CSS, HTML, JavaScript**
 - 🔭 I’m currently working on **Research Project: A Data-driven Approach to Manner of Death Prediction Using Machine Learning and Deep Learning**
 - 💬 Ask me about **Projects, Photography, Content Creation**

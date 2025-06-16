@@ -1,11 +1,12 @@
 <h1 align="center">Hello, I'm Chowdhury Jifam Tahmid</h1>
 <h3 align="center">Software Engineer | Photographer | Content Creator | Traveler</h3>
 <image align= "center" alt="Coding" width= "400" src= "https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tahmid-Jifam&label=Profile%20views&color=0e75b6&style=flat" alt="Tahmid-Jifam" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tahmid-Jifam" alt="Tahmid-Jifam" /></a> </p>
 
 - 🔭 I’m currently working as **Software Engineer at Momtex Expo Ltd. (Pakiza Group)**
+- 🎓 I have completed my BSC(CSE) from **North South University, Bangladesh**
 - 🌱 I’m currently learning & working on **CSS, HTML, JavaScript**
 - 🔭 I’m currently working on **Research Project: A Data-driven Approach to Manner of Death Prediction Using Machine Learning and Deep Learning**
 - 💬 Ask me about **Projects, Photography, Content Creation**
